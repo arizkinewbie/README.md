@@ -8,7 +8,7 @@
 
 
 
-<p align='left'>I am a student from Esa Unggul University in Informatics Engineering. I am looking for full-time opportunities. I am currently working on a project that automates generation of markdowns from forms! Do check it out.</p><p align='left'> You can view my resume <a href='https://arizkinewbie.my.id' target=_blank><u>here</u>.</a></p>
+<p align='left'>I am a student from Esa Unggul University in Informatics Engineering. I am looking for full-time opportunities. I am currently working on a project that automates generation of markdowns from forms! Do check it out.</p><p align='left'> You can view my resume <a href='https://www.linkedin.com/in/arizkinewbie' target=_blank><u>here</u>.</a></p>
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=arizkinewbie alt=arizkinewbie /> </p>
