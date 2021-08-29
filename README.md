@@ -1,4 +1,4 @@
-## Hey 👋, This is Arizki Putra Rahman 
+## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Arizki 🐼
 [![Linkedin Badge](https://img.shields.io/badge/-arizkinewbie-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arizkinewbie/)](https://www.linkedin.com/in/arizkinewbie/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arizkijitsu@gmail.com)](mailto:arizkijitsu@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/arizkinewbie/)](https://www.github.com/arizkinewbie/) 
@@ -14,5 +14,5 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=arizkinewbie alt=arizkinewbie /> </p>
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=arizkinewbie&show_icons=true&include_all_commits=true)](https://github.com/arizkinewbie/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arizkinewbie&layout=compact)](https://github.com/arizkinewbie/github-readme-stats)
+<img align='left' src = "https://github.com/arizkinewbie/github-stats-transparent/blob/output/generated/overview.svg">
+<img align='' src = "https://github.com/arizkinewbie/github-stats-transparent/blob/output/generated/languages.svg">
