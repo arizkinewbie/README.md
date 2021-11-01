@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram&logoColor=red&link=https://instagram.com/arizkinewbie/)](https://www.instagram.com/arizkinewbie/) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/arizkinewbie?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm0U2WZHXq-y47SlCrM5uhw?style=social) 
-<a href="https://app.daily.dev/ArizkiNewbie"><img src="https://github.com/arizkinewbie/arizkinewbie/blob/master/devcard.svg" align="right" width="200" alt="Arizki Putra Rahman's Dev Card"/></a>
+<a href="https://app.daily.dev/ArizkiNewbie"><img src="https://github.com/arizkinewbie/arizkinewbie/blob/main/devcard.svg" align="right" width="200" alt="Arizki Putra Rahman's Dev Card"/></a>
 
 
 <p align='left'>I am a student from Esa Unggul University in Informatics Engineering. I am looking for full-time opportunities. I am currently working on a project that automates generation of markdowns from forms! Do check it out.</p><p align='left'> You can view my resume <a href='https://www.linkedin.com/in/arizkinewbie' target=_blank><u>here</u>.</a></p>
