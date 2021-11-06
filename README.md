@@ -1,6 +1,5 @@
 ## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Arizki 🐼
 [![Linkedin Badge](https://img.shields.io/badge/-arizkinewbie-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arizkinewbie/)](https://www.linkedin.com/in/arizkinewbie/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arizkijitsu@gmail.com)](mailto:arizkijitsu@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/arizkinewbie/)](https://www.github.com/arizkinewbie/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram&logoColor=red&link=https://instagram.com/arizkinewbie/)](https://www.instagram.com/arizkinewbie/) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/arizkinewbie?style=social)
@@ -13,4 +12,6 @@
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=arizkinewbie alt=arizkinewbie /> </p>
+
+![](https://github-readme-stats.vercel.app/api?username=arizkinewbie&theme=graywhite&show_icons=true)
 
