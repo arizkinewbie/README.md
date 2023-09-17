@@ -12,7 +12,7 @@
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=arizkinewbie alt=arizkinewbie /> </p>
-<a href="https://app.daily.dev/ArizkiNewbie"><img src="https://github.com/arizkinewbie/arizkinewbie/blob/main/devcard.svg" align="right" width="200" alt="Arizki Putra Rahman's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/ArizkiNewbie"><img src="https://github.com/arizkinewbie/arizkinewbie/blob/main/devcard.svg" align="right" width="200" alt="Arizki Putra Rahman's Dev Card"/></a> -->
 
 [//]: ![](https://github-readme-stats.vercel.app/api?username=arizkinewbie&theme=graywhite&show_icons=true)
 
